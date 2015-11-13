@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Nexenta Zabbix check script
+# 2015/11/13
 
 ## if [ "$1" == "" ] || [ $2 == "" ] || [ $3 == "" ]
 
